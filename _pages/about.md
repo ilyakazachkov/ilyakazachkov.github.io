@@ -1,5 +1,3 @@
-
-
 About me
 ======
 I am an Ikerbasque Research Professor at Ikerbasque -- Basque Foundation for Science and Distinguished Researcher at the University of the Basque Country UPV/EHUI, where I am the PI of the consolidated research group ``Groups, Topology and Applications'' of the Basque Government.
@@ -8,4 +6,3 @@ My research is in combinatorial and geometric group theory and Diophantine geome
 						
 Before moving to Spain, I was a Royal Commission for the Exhibition of 1851 Research Fellow at the University of Oxford
 					
-
