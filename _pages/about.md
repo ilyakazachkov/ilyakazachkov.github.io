@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Ilya Kazachkov's homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About me
 ======
 I am an Ikerbasque Research Professor at Ikerbasque -- Basque Foundation for Science and Distinguished Researcher at the University of the Basque Country UPV/EHUI, where I am the PI of the consolidated research group ``Groups, Topology and Applications'' of the Basque Government.
