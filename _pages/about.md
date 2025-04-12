@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ilya Kazachkov's homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
