@@ -23,9 +23,7 @@ author:
   avatar           : "ilya.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  location         : "Earth"
   employer         : "Ikerbasque -- Basque Foundation for Science"
-  employer         : "University of the Basque Country UPV/EHU"
   uri              : https://www.ikerbasque.net/en/ilya-kazachkov # URL
   email            : "ilya.kazachkov[at]ehu.eus" 
 
@@ -41,7 +39,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
