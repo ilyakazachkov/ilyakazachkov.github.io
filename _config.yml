@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ilya.jpg"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   employer         : "Ikerbasque -- Basque Foundation for Science"
   uri              : https://www.ikerbasque.net/en/ilya-kazachkov # URL
@@ -34,7 +34,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
