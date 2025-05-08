@@ -11,8 +11,7 @@ redirect_from:
 
 Together with Montserrat Casals-Ruiz and Dario Ascari we study graphs of groups with cyclic edge groups. We study their automorphism group as well as the Isomorphism Problem including the Isomorphism Problem for GBSs.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Publications:
+Automorphisms
+ In a series of papers 
+        <a href="#" target="_blank">link1</a>
