@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Together with Montserrat Casals-Ruiz and Dario Ascari we study graphs of groups with cyclic edge groups, their group of automorsphims as well as the Isomorphism Problem including the Isomorphism Problem for GBSs. Here are some preprints:
+Together with <a href="https://montsecasals.wixsite.com/montse" target="_blank">Montserrat Casals-Ruiz</a>  and <a href="https://sites.google.com/view/dario-ascari" target="_blank">Dario Ascari</a> we study graphs of groups with cyclic edge groups, their group of automorsphims as well as the Isomorphism Problem including the Isomorphism Problem for GBSs. Here are some preprints:
 
 1.  <a href="http://ilyakazachkov.github.io/files/Automorphisms.pdf" target="_blank">Automorphisms of graphs of groups with cyclic edge groups</a>
 
