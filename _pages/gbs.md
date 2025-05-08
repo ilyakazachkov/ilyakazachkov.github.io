@@ -9,42 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-</style>
-</head>
 
 Together with <a href="https://montsecasals.wixsite.com/montse" target="_blank">Montserrat Casals-Ruiz</a>  and <a href="https://sites.google.com/view/dario-ascari" target="_blank">Dario Ascari</a> we study graphs of groups with cyclic edge groups, their group of automorsphims as well as the Isomorphism Problem including the Isomorphism Problem for GBSs. Here are some preprints:
 
 <a href="http://ilyakazachkov.github.io/files/Automorphisms.pdf" target="_blank">Automorphisms of graphs of groups with cyclic edge groups</a>
 
-<button type="button" class="collapsible">Abstract</button>
-<div class="content">
-<p>We describe the outer automorphism group of a one-ended fundamental group of a graph of groups, when edge groups are cyclic, and vertex groups are torsion-free with cyclic centralisers. We show that in this case the outer automorphism group is virtually built from the outer automorphisms of the vertex groups (fixing some elements), the outer automorphisms of some associated generalised Baumslag-Solitar groups, and generalised twists - partial conjugations by elements in the centralisers of some elliptic elements in the group.</p>
-</div>
+<details>
+<summary>Abstract</summary>
+We describe the outer automorphism group of a one-ended fundamental group of a graph of groups, when edge groups are cyclic, and vertex groups are torsion-free with cyclic centralisers. We show that in this case the outer automorphism group is virtually built from the outer automorphisms of the vertex groups (fixing some elements), the outer automorphisms of some associated generalised Baumslag-Solitar groups, and generalised twists - partial conjugations by elements in the centralisers of some elliptic elements in the group
+</details>
+
 
 <a href="http://ilyakazachkov.github.io/files/GBS1.pdf" target="_blank">On the isomorphism problem for cyclic JSJ decompositions: vertex elimination</a>
 <button type="button" class="collapsible">Abstract</button>
