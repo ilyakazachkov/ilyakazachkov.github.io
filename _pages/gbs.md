@@ -9,6 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+
 Together with <a href="https://montsecasals.wixsite.com/montse" target="_blank">Montserrat Casals-Ruiz</a>  and <a href="https://sites.google.com/view/dario-ascari" target="_blank">Dario Ascari</a> we study graphs of groups with cyclic edge groups, their group of automorsphims as well as the Isomorphism Problem including the Isomorphism Problem for GBSs. Here are some preprints:
 
 <a href="http://ilyakazachkov.github.io/files/Automorphisms.pdf" target="_blank">Automorphisms of graphs of groups with cyclic edge groups</a>
