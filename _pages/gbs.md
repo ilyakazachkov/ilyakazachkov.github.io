@@ -12,7 +12,7 @@ redirect_from:
 
 Together with <a href="https://montsecasals.wixsite.com/montse" target="_blank">Montserrat Casals-Ruiz</a>  and <a href="https://sites.google.com/view/dario-ascari" target="_blank">Dario Ascari</a> we study graphs of groups with cyclic edge groups, their group of automorsphims as well as the Isomorphism Problem including the Isomorphism Problem for GBSs. 
 
-You can see the slides of our talks <a href="https://web.stevens.edu/algebraic/Stevens2025/Abstracts/Abstract_Casals.pdf" target="_blank">"On the isomorphism problem for generalised Baumslag-Solitar groups"</a> and <a href="https://web.stevens.edu/algebraic/Stevens2025/Abstracts/Abstract_Kazachkov.pdf" target="_blank">"On automorphisms of graphs of groups with cyclic edge groups"</a> and watch the talks <a href="https://stevens.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c38c5357-60c4-4981-a8b7-b2f701871efc&start=2675.553931" target="_blank">here</a> and <a href="https://stevens.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2aafe88-8f4c-4202-bc09-b2f901188af4&start=3133.128986" target="_blank">here</a>. 
+You can see the slides of our GAGTA-2025 talks <a href="https://web.stevens.edu/algebraic/Stevens2025/Abstracts/Abstract_Casals.pdf" target="_blank">"On the isomorphism problem for generalised Baumslag-Solitar groups"</a> and <a href="https://web.stevens.edu/algebraic/Stevens2025/Abstracts/Abstract_Kazachkov.pdf" target="_blank">"On automorphisms of graphs of groups with cyclic edge groups"</a> and watch the talks <a href="https://stevens.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c38c5357-60c4-4981-a8b7-b2f701871efc&start=2675.553931" target="_blank">here</a> and <a href="https://stevens.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2aafe88-8f4c-4202-bc09-b2f901188af4&start=3133.128986" target="_blank">here</a>. 
 
 
 Here are our preprints:
@@ -36,7 +36,7 @@ We describe the outer automorphism group of a one-ended fundamental group of a g
  We establish the decidability of the isomorphism problem for a broad class of generalized Baumslag–Solitar (GBS) groups—specifically, those with a single quasi-conjugacy class and a full-support gap. To achieve this, we introduce a family of invariants that fully characterize the isomorphism classes within this family.
 </details>
 
-<a href="http://ilyakazachkov.github.io/files/GBS3.pdf" target="_blank">On the isomorphism problem for generalized Baumslag-Solitar groups: angles and flexible configurations</a>
+<a href="http://ilyakazachkov.github.io/files/GBS3.pdf" target="_blank">On the isomorphism problem for generalized Baumslag-Solitar groups: angles</a>
 <details>
 <summary>Abstract</summary> 
  We introduce a new isomorphism invariant for generalized Baumslag-Solitar groups (GBS), the limit angle. This invariant has a geometric interpretation that displays a novel and unique dynamic, and it is completely different from any previously known isomorphism invariant. We apply this invariant to classify GBSs with one vertex and two edges.
