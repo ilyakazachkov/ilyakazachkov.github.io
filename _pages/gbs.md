@@ -33,11 +33,11 @@ We describe the outer automorphism group of a one-ended fundamental group of a g
 <a href="http://ilyakazachkov.github.io/files/GBS2.pdf" target="_blank">On the isomorphism problem for generalized Baumslag-Solitar groups: invariants and flexible configurations</a>
 <details>
 <summary>Abstract</summary> 
- We establish the decidability of the isomorphism problem for a broad class of generalized Baumslag–Solitar (GBS) groups—specifically, those with a single quasi-conjugacy class and a full-support gap. To achieve this, we introduce a family of invariants that fully characterize the isomorphism classes within this family.
+ We establish the decidability of the isomorphism problem for a broad class of generalized Baumslag–Solitar (GBS) groups — specifically, those with a single quasi-conjugacy class and a full-support gap. To achieve this, we introduce a family of invariants that fully characterize the isomorphism classes within this family.
 </details>
 
 <a href="http://ilyakazachkov.github.io/files/GBS3.pdf" target="_blank">On the isomorphism problem for generalized Baumslag-Solitar groups: angles</a>
 <details>
 <summary>Abstract</summary> 
- We introduce a new isomorphism invariant for generalized Baumslag-Solitar groups (GBS), the limit angle. This invariant has a geometric interpretation that displays a novel and unique dynamic, and it is completely different from any previously known isomorphism invariant. We apply this invariant to classify GBSs with one vertex and two edges.
+ We introduce a new isomorphism invariant for generalized Baumslag-Solitar groups (GBS), the limit angle. This invariant has a geometric interpretation that displays a qualitatively new dynamics, and it is completely different from any previously known isomorphism invariant. We apply this invariant to classify GBSs with one vertex and two edges.
 </details>
