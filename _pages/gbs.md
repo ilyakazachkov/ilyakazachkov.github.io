@@ -33,7 +33,7 @@ We describe the outer automorphism group of a one-ended fundamental group of a g
 <a href="http://ilyakazachkov.github.io/files/GBS2.pdf" target="_blank">On the isomorphism problem for generalized Baumslag-Solitar groups: invariants and flexible configurations</a>
 <details>
 <summary>Abstract</summary> 
- We establish the decidability of the isomorphism problem for a broad class of generalized Baumslag–Solitar (GBS) groups — specifically, those with a single quasi-conjugacy class and a full-support gap. To achieve this, we introduce a family of invariants that fully characterize the isomorphism classes within this family.
+ We prove that the isomorphism problem is decidable for generalized Baumslag-Solitar (GBS) groups  with one quasi-conjugacy class and full support gaps. In order to do so we introduce a family of invariants that fully characterize the isomorphism within this class of GBSs.
 </details>
 
 <a href="http://ilyakazachkov.github.io/files/GBS3.pdf" target="_blank">On the isomorphism problem for generalized Baumslag-Solitar groups: angles</a>
